@@ -16,7 +16,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var bottomCaptionLabel: UILabel!
     
     let topChoices =
-        [CaptionOption(emoji: "🕶", caption: "You know what's cool?"),
+        [CaptionOption(emoji: "🕶", caption: "You know what's super cool?"),
          CaptionOption(emoji: "⚙️", caption: "You know what grinds my gears?"),
          CaptionOption(emoji: "💕", caption: "You know what I love?")]
     let bottomChoices =
